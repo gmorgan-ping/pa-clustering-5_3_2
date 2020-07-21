@@ -17,7 +17,7 @@ This use case employs the `https://github.com/gmorgan-ping/pa-clustering-5_3_2` 
 
 ## Deploy the PingAccess cluster
 
-You'll use the `docker-compose.yaml` file in your local `pingidentity-devops-getting-started/11-docker-compose/06-pingaccess-cluster` directory to deploy the cluster.
+You'll use the `docker-compose.yaml` file in your local directory to deploy the cluster.
 
 1. From the root of the repo, start the stack. Enter:
 
